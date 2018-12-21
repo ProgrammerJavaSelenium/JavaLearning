@@ -1,6 +1,6 @@
 package Constructor;
 
-public class T1_Class_with_NoConstructor_DefaultConstructor 
+public class T1_Class_with_NoConstructor_DefaultConstructor  //
 {
 	void m1()
 	{
