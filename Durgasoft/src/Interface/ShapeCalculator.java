@@ -39,7 +39,8 @@ class MainClass1
 		Circleshape Cir=new Circleshape();
 		
 		PlaywithCalculator Pwc1=new PlaywithCalculator(Rec);
-		PlaywithCalculator Pwc2=new PlaywithCalculator(Cir);
+		PlaywithCalculator Pwc2=new PlaywithCalculator(Cir); 
+		//Sysout
 	}
 }
 
