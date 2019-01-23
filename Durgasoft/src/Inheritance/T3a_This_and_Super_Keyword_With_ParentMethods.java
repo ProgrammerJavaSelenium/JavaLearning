@@ -1,5 +1,12 @@
 package Inheritance;
 
-public class T3a_This_and_Super_Keyword_With_ParentMethods {
+class Parent_T3a
+{
+	void m1() { System.out.println("Parent M1 method"); }
+}
 
+class Child_T4a
+{
+	void m1()
+	{
 }
